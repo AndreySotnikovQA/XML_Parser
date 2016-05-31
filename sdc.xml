@@ -1,0 +1,2169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kadu-response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KaduSearchResponse.xsd">
+	<server>
+		<url>
+			/?query=sony&amp;country_id=1&amp;lang_id=1&amp;linkin_id=3055020&amp;sbh_id=2000&amp;weight_group_id=1&amp;request_id=FE.p1.24f4239550dc1adbf73a&amp;brand_id=3139&amp;nres_to_retrieve=1500&amp;nres_to_expose=40&amp;start_from=0&amp;related_kws_count=30&amp;features=composer.xml();fields_filter.generic_filter();filter.display-ind();filter.bid();filter.free-merchants();filter.lang-id();filter.country-id();filter.weight-group();&amp;min_score_threshold=0.59&amp;min_score_threshold_for_navigation=0.59&amp;featured_unique_merchants=0&amp;apply_discounts=0&amp;
+		</url>
+		<spelling>
+			<active>0</active>
+		</spelling>
+		<orig-kw>sony</orig-kw>
+		<normalized-kw>sony</normalized-kw>
+		<recognized-upc/>
+		<recognized-mpn/>
+		<forms-action-type>3</forms-action-type>
+		<form-display-ranking>
+			7185,410,96252,9007,31515,68185,89,96323,1633,96425,92,96441,93767,63717,96339,414
+		</form-display-ranking>
+		<resultGrade>good</resultGrade>
+		<engine>phx-dkadu1</engine>
+		<database>sdcprod</database>
+		<lang_id>1</lang_id>
+		<country_id>1</country_id>
+		<kadu-branch>master</kadu-branch>
+		<kadu-version>kadu.6918</kadu-version>
+		<kadu-index-info>index.201202230047</kadu-index-info>
+	</server>
+	<categories count="1">
+		<category xref="0">
+			<form-id>7185</form-id>
+			<name>Digital Cameras</name>
+			<category-type>productized</category-type>
+			<is-related-category>0</is-related-category>
+		</category>
+	</categories>
+	<products count="0"/>
+	<deals count="40">
+		<deal xref="0" docId="1093880" score="51" indexTier="1">
+			<id>1akC7-skm3fAZ9e0auxG0g==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>174</price>
+			<orig-price>174</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCW350B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350B</sku>
+		</deal>
+		<deal xref="1" docId="1095658" score="51" indexTier="1">
+			<id>VGo50uNyGbYE5oIhj0n0hQ==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Pink) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>214</price>
+			<orig-price>214</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCW350P&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>105</image-location>
+			<image-height>244</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350P</sku>
+		</deal>
+		<deal xref="2" docId="1096976" score="51" indexTier="1">
+			<id>pdHsDbfWPij3Bz1JWschDw==</id>
+			<name>Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black)</name>
+			<description>
+				26mm equivalent Carl Zeiss Vario-Tessar wide lens with 4x optical zoom Capture breathtaking images in Sweep Panorama Mode 14.1 megapixel 2.7? LCD screen in a compact design. Capture your videos in HD Movie mode (720p) Optical SteadyShot image stabilization reduces blur iAuto mode automatically optimizes camera settings Smile Shutter technology automatically captures a smile Face Detection technology captures faces naturally Anti-blink, Face Priority and Red-eye Reduction functions Self-Portrait Timer makes self-portraits easy  DRO Standard and Plus recovers shadow detail in high contrast scenes iSCN detects 8 scene conditions and adjusts camera settings 10 convenient scene modes Easy Shooting Mode simplifies camera operation Find your photos using the simple folder or calendar viewing modes  In-camera Retouching Tools to edit your photos Easy image management helps find your pictures PHOTOMUSIC feature combines HD slideshow with music PhotoTV HD Mode with compatible BRAVIA HDTVs Function Guide helps explain menus and settings Included lithium-ion battery for long-lasting power Card slot for optional Memory Stick Duo media and SD media Includes Sony PMB (Picture Motion Browser) and PMB Portable software Available in silver, black, pink and blue.           14.1 Megapixel Super HAD CCD Image SensorA powerful 14.1 megapixel 1/2.3? Super HAD CCD image sensor helps you capture gorgeous images with superb contrast and clarity down to the finest detail. With 14.1 megapixels, you can create stunning, photo-quality prints up to A3+ (13x19?) size, or crop your images and still come away with high resolution shots.   Carl Zeiss Vario-Tessar Lens with 4x Optical Zoom with 26mm equivalent wide angleThe professional-quality Carl Zeiss Vario-Tessar 4x optical zoom lens brings distant subjects closer for great outdoor, sports, and travel photos. Thanks to 26mm equivalent of this lens you can also get great group shots in tight spots.   2.7? Clear Photo LCD display (230k...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>149</price>
+			<orig-price>149</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=SNDSCW350&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>107</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>SNDSCW350</sku>
+		</deal>
+		<deal xref="3" docId="1097344" score="51" indexTier="1">
+			<id>wHWOWo7muToj__01B9KuHA==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Silver) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>184</price>
+			<orig-price>184</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCW350&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350</sku>
+		</deal>
+		<deal xref="4" docId="1097459" score="51" indexTier="1">
+			<id>yW03ICmeyQ91k_NZcc7lCQ==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Blue) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>174</price>
+			<orig-price>174</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCW350L&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>247</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350L</sku>
+		</deal>
+		<deal xref="5" docId="1116319" score="51" indexTier="1">
+			<id>8BOSO3NvdWq26yLAtHVBvw==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Pink) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>258</price>
+			<orig-price>258</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCTX5P&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>249</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5P</sku>
+		</deal>
+		<deal xref="6" docId="1118035" score="51" indexTier="1">
+			<id>G8zP4CMGsLlQfuvSwBPBaA==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Green) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>318</price>
+			<orig-price>318</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCTX5G&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5G</sku>
+		</deal>
+		<deal xref="7" docId="1121827" score="51" indexTier="1">
+			<id>YN5XnVm7r3p0ylUtI3r-Ug==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Silver) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>288</price>
+			<orig-price>288</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCTX5&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>102</image-location>
+			<image-height>250</image-height>
+			<image-width>248</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5</sku>
+		</deal>
+		<deal xref="8" docId="1123540" score="51" indexTier="1">
+			<id>g0oGUFh3cdtt1XGH5i5WYA==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Red) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>328</price>
+			<orig-price>328</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCTX5R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5R</sku>
+		</deal>
+		<deal xref="9" docId="1137455" score="51" indexTier="1">
+			<id>OV97tWe7_DYajsFjWSwlVQ==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Blue) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>164</price>
+			<orig-price>0</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCW350L&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>247</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350L</sku>
+		</deal>
+		<deal xref="10" docId="1137801" score="51" indexTier="1">
+			<id>SkGXsO3nTmULCJz9T-XrQQ==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>164</price>
+			<orig-price>164</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCW350B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>105</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350B</sku>
+		</deal>
+		<deal xref="11" docId="1139064" score="51" indexTier="1">
+			<id>hqkrSL5CssrjhAuVJAXxKA==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Silver) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>164.99</price>
+			<orig-price>164.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCW350&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>108</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350</sku>
+		</deal>
+		<deal xref="12" docId="1139751" score="51" indexTier="1">
+			<id>qVaVVVO_hLyaFkui4gUHgA==</id>
+			<name>Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Black)</name>
+			<description>
+				26mm equivalent Carl Zeiss Vario-Tessar wide lens with 4x optical zoom Capture breathtaking images in Sweep Panorama Mode 14.1 megapixel 2.7? LCD screen in a compact design. Capture your videos in HD Movie mode (720p) Optical SteadyShot image stabilization reduces blur iAuto mode automatically optimizes camera settings Smile Shutter technology automatically captures a smile Face Detection technology captures faces naturally Anti-blink, Face Priority and Red-eye Reduction functions Self-Portrait Timer makes self-portraits easy  DRO Standard and Plus recovers shadow detail in high contrast scenes iSCN detects 8 scene conditions and adjusts camera settings 10 convenient scene modes Easy Shooting Mode simplifies camera operation Find your photos using the simple folder or calendar viewing modes  In-camera Retouching Tools to edit your photos Easy image management helps find your pictures PHOTOMUSIC feature combines HD slideshow with music PhotoTV HD Mode with compatible BRAVIA HDTVs Function Guide helps explain menus and settings Included lithium-ion battery for long-lasting power Card slot for optional Memory Stick Duo media and SD media Includes Sony PMB (Picture Motion Browser) and PMB Portable software Available in silver, black, pink and blue.           14.1 Megapixel Super HAD CCD Image SensorA powerful 14.1 megapixel 1/2.3? Super HAD CCD image sensor helps you capture gorgeous images with superb contrast and clarity down to the finest detail. With 14.1 megapixels, you can create stunning, photo-quality prints up to A3+ (13x19?) size, or crop your images and still come away with high resolution shots.   Carl Zeiss Vario-Tessar Lens with 4x Optical Zoom with 26mm equivalent wide angleThe professional-quality Carl Zeiss Vario-Tessar 4x optical zoom lens brings distant subjects closer for great outdoor, sports, and travel photos. Thanks to 26mm equivalent of this lens you can also get great group shots in tight spots.   2.7? Clear Photo LCD display (230k...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>139</price>
+			<orig-price>139</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=SNDSCW350&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>SNDSCW350</sku>
+		</deal>
+		<deal xref="13" docId="1140259" score="51" indexTier="1">
+			<id>w_KxaMr2IwsDFwnXV5UtFg==</id>
+			<name>
+				Sony Cyber-shot DSC-W350 14.1 MP Digital Camera (Pink) w/ 4GB Card, Case and More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.6 in   Depth 0.7 in   Height 2 in   Weight 3.5 oz   Enclosure Color Black   Main Features  Resolution 14.1 Megapixel   Color Support Color   Optical Sensor Type Super HAD CCD   Effective Sensor Resolution 14,100,000 pixels   Optical Sensor Size 1/2.3   Light Sensitivity ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, portrait mode, twilight portrait, back light, pet, fireworks, soft snap, twilight mode, beach, backlight portrait, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white), underwater   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 1.45 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Flash Memory 45 MB flash - integrated (soldered memory - 45 MB )   Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 8 in - 26 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.7 mm - 18.8 mm - f/2.7-5.7   Focal Length 4.7 mm - 18.8 mm   Focal Length Equivalent to 35mm Camera 26 - 105mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Range 1.6 in   Macro Focus Rang...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>194</price>
+			<orig-price>194</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCW350P&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>105</image-location>
+			<image-height>244</image-height>
+			<image-width>250</image-width>
+			<product-id>95258025</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCW350P</sku>
+		</deal>
+		<deal xref="14" docId="1305183" score="51" indexTier="1">
+			<id>BUN8_apX4Zn38w7fpYb-RA==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Pink) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>0</price>
+			<orig-price>248</orig-price>
+			<on-sale>1</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCTX5P&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>108</image-location>
+			<image-height>249</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5P</sku>
+		</deal>
+		<deal xref="15" docId="1305251" score="51" indexTier="1">
+			<id>IgKAfAUFHJ9UwTg51d6V1Q==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Red) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>298</price>
+			<orig-price>298</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCTX5R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>102</image-location>
+			<image-height>250</image-height>
+			<image-width>249</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5R</sku>
+		</deal>
+		<deal xref="16" docId="1305362" score="51" indexTier="1">
+			<id>Vwrcm43MnVODkuUGltuf2A==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Silver) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>274</price>
+			<orig-price>274</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCTX5&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>106</image-location>
+			<image-height>250</image-height>
+			<image-width>248</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5</sku>
+		</deal>
+		<deal xref="17" docId="1305468" score="51" indexTier="1">
+			<id>fdJb08uulQIw6DXErN05mg==</id>
+			<name>
+				Sony Cyber-shot DSC-TX5 10.2 MP Digital Camera (Green) with 8GB Card, Case, More
+			</name>
+			<description>
+				General  Product Type Digital camera - compact   Width 3.7 in   Depth 0.7 in   Height 2.2 in   Weight 4.5 oz   Enclosure Color Red   Body Material Metal   Main Features  Resolution 10.2 Megapixel   Color Support Color   Optical Sensor Type Exmor R CMOS   Effective Sensor Resolution 10,200,000 pixels   Optical Sensor Size 1/2.4   Light Sensitivity ISO 800, ISO 125, ISO 400, ISO 200, ISO 1600, ISO 3200, ISO auto   Digital Zoom 2 x   Shooting Modes Frame movie mode   Shooting Programs Landscape, hi-speed shutter, twilight portrait, pet, fireworks, soft snap, underwater, twilight mode, beach, snow, high sensitivity, gourmet   Image Stabilizer Optical (Steady Shot)   Max Shutter Speed 1/1600 sec   Min Shutter Speed 2 sec   Exposure Metering Multi-segment, center-weighted, spot   Exposure Modes Program, automatic   Exposure Compensation ±2 EV range, in 1/3 EV steps   Face Detection Yes   White Balance Custom, automatic, presets   White Balance Presets Incandescent, cloudy, flash, daylight, fluorescent light (cool white), fluorescent light (daylight), fluorescent light (warm white)   Digital Video Format MPEG-4   Still Image Format JPEG   Continuous Shooting Speed 10 frames per second   Video Capture MPEG-4 - 1280 x 720 - 30 fps MPEG-4 - 640 x 480 - 30 fps   Memory / Storage  Supported Flash Memory Memory Stick Duo, SD Memory Card, Memory Stick PRO Duo, SDHC Memory Card, Memory Stick PRO-HG Duo   Integrated Memory 45 MB   Image Storage JPEG 3648 x 2736 JPEG 2592 x 1944 JPEG 3648 x 2056 JPEG 1920 x 1080   Camera Flash  Camera Flash Built-in flash   Flash Modes Fill-in mode, slow synchro, auto mode, flash OFF mode, red-eye reduction   Red Eye Reduction Yes   Effective Flash Range 3 in - 19.7 ft   Features AF illuminator   Lens System  Type Zoom lens - 4.43 mm - 17.7 mm - f/3.5-6.3   Focal Length 4.43 mm - 17.7 mm   Focal Length Equivalent to 35mm Camera 25 - 100mm   Focus Adjustment Automatic   Auto Focus TTL contrast detection   Auto Focus Points (Zones) 9   Min Focus Ra...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>298</price>
+			<orig-price>298</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCTX5G&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>110</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>95941951</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCTX5G</sku>
+		</deal>
+		<deal xref="18" docId="1308940" score="51" indexTier="1">
+			<id>iF65iIQDKStyanTSDPgsdg==</id>
+			<name>Sony Cyber-shot DSC-WX9 Digital Camera (Red)</name>
+			<description>
+				Cyber-shot DSC-WX9 Digital Camera (Red), 16.2MP Resolution--Exmor R CMOS Sensor, Wide 5x Zoom Lens 25-125mm Equiv, 3.0" LCD Monitor, 1080i AVCHD HD Video W/Dual Record, Superior Auto W/HDR Mode, Background Defocus, 3D &amp; Intelligent Sweep Panorama Modes, 10fps at Full Resolution, Optical SteadyShot for Sharp Pictures, USB Charging
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>166.2</price>
+			<orig-price>166.2</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>2</merchant-ref>
+			<authorized-reseller>1</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>1908809</crawler-id>
+			<url>
+				http://www.bhphotovideo.com/c/product/750053-REG/Sony_DSCWX9_R_Cyber_shot_DSC_WX9_Digital_Camera.html/BI/81/kw/SODSCWX9R
+			</url>
+			<image-location>105</image-location>
+			<image-height>175</image-height>
+			<image-width>175</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>Ships Free,Ships Today! $0 Pay Avail! Sony AuthDealer</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>750053-REG</sku>
+		</deal>
+		<deal xref="19" docId="1309000" score="51" indexTier="1">
+			<id>rNSG2r7mLJhbTUzJA_nUMg==</id>
+			<name>Sony Cyber-shot DSC-WX9 Digital Camera (Silver)</name>
+			<description>
+				FREE SHIPPING!. Sony Cyber-shot DSC-WX9 Digital Camera (Silver), 16.2MP Resolution--Exmor R CMOS Sensor, Wide 5x Zoom Lens 25-125mm Equiv, 3.0" LCD Monitor, 1080i AVCHD HD Video W/Dual Record, Superior Auto W/HDR Mode, Background Defocus, 3D &amp; Intelligent Sweep Panorama Modes, 10fps at Full Resolution, Optical SteadyShot for Sharp Pictures, USB Charging
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>155</price>
+			<orig-price>155</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>2</merchant-ref>
+			<authorized-reseller>1</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>1908809</crawler-id>
+			<url>
+				http://www.bhphotovideo.com/c/product/750054-REG/Sony_DSCWX9_Cyber_shot_DSC_WX9_Digital_Camera.html/BI/81/kw/SODSCWX9S
+			</url>
+			<image-location>107</image-location>
+			<image-height>175</image-height>
+			<image-width>175</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>Ships Free,Ships Today! $0 Pay Avail! Sony AuthDealer</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>750054-REG</sku>
+		</deal>
+		<deal xref="20" docId="2107292" score="51" indexTier="1">
+			<id>ACWXf9XZIjsRz5bCZFYcUA==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera</name>
+			<description>
+				Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSLR benefit. The system takes two shots, identifies the background and appli...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>189</price>
+			<orig-price>189</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>103</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>SNDSCWX9B</sku>
+		</deal>
+		<deal xref="21" docId="2107835" score="51" indexTier="1">
+			<id>ZT884X28NjJczZEszTqAIA==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>204</price>
+			<orig-price>204</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>109</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9B</sku>
+		</deal>
+		<deal xref="22" docId="2107846" score="51" indexTier="1">
+			<id>ZqXb4NfN_1PTcb7JArBoJg==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera 16GB Bundle</name>
+			<description>
+				Includes Camera, 16 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, Screen Protectors, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject....
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>254</price>
+			<orig-price>254</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E3SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>107</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E3SNDSCWX9B</sku>
+		</deal>
+		<deal xref="23" docId="2107891" score="51" indexTier="1">
+			<id>bA_4L4wpfCHIM8pQEwEspw==</id>
+			<name>Sony Cyber-shot DSC-WX9 Silver Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>195</price>
+			<orig-price>195</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCWX9&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>105</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9</sku>
+		</deal>
+		<deal xref="24" docId="2108369" score="51" indexTier="1">
+			<id>x4M9zIHIVHVtz_YmjzWTdQ==</id>
+			<name>Sony Cyber-shot DSC-WX9 Red Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>187</price>
+			<orig-price>187</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E1SNDSCWX9R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>105</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9R</sku>
+		</deal>
+		<deal xref="25" docId="2371205" score="51" indexTier="1">
+			<id>HWMThiDSe-r0TJXWQNCIew==</id>
+			<name>Sony Cyber-shot DSC-HX9V Digital Camera (Black)</name>
+			<description>
+				FREE SHIPPING!. Sony Cyber-shot DSC-HX9V Digital Camera (Black), 16.2MP Exmor R CMOS, Wide 16x Zoom Lens 24-384mm Equivalent, 3.0" VGA LCD Monitor, 1080/60p AVCHD HD Video W/Dual Record, Superior Auto W/Improved HDR, 3D and Intelligent Sweep Panorama Modes, Optical SteadyShot for Sharp Pictures, Background Defocus/Soft Skin Modes, Up to 10fps at Full 16.2MP Resolution, Face Detection, Advanced GPS
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>329.99</price>
+			<orig-price>329.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>2</merchant-ref>
+			<authorized-reseller>1</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>1908809</crawler-id>
+			<url>
+				http://www.bhphotovideo.com/bnh/controller/home?O=productlist.jsp&amp;A=cart&amp;Q=add&amp;sku=750020&amp;is=REG&amp;q=1&amp;BI=81&amp;kw=SODSCHX9VB
+			</url>
+			<image-location>104</image-location>
+			<image-height>175</image-height>
+			<image-width>175</image-width>
+			<product-id>106690594</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>LOWER PRICE at Site! Auth Sony Dealer/Warranty.</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>750020-REG</sku>
+		</deal>
+		<deal xref="26" docId="2789395" score="51" indexTier="1">
+			<id>9bB5ioNnt61FzD_yICWoRA==</id>
+			<name>Sony Cyber-shot DSC-WX9 Red Digital Camera 16GB Bundle</name>
+			<description>
+				Includes Camera, 16 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, Screen Protectors, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject....
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>212.99</price>
+			<orig-price>212.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E3SNDSCWX9R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>101</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E3SNDSCWX9R</sku>
+		</deal>
+		<deal xref="27" docId="2790454" score="51" indexTier="1">
+			<id>GbK1e5Nquhs0WtrU_zSGOQ==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>180</price>
+			<orig-price>180</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>106</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9B</sku>
+		</deal>
+		<deal xref="28" docId="2790756" score="51" indexTier="1">
+			<id>IgFQpF8Nd5dDvPCt9hD-rw==</id>
+			<name>Sony Cyber-shot DSC-WX9 Red Digital Camera 8GB Bundle</name>
+			<description>
+				Includes Camera, 8 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-s...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>192.99</price>
+			<orig-price>192.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E2SNDSCWX9R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>102</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E2SNDSCWX9R</sku>
+		</deal>
+		<deal xref="29" docId="2793564" score="51" indexTier="1">
+			<id>ayam6YwfY7htrMdsckSA8Q==</id>
+			<name>Sony Cyber-shot DSC-WX9 Silver Digital Camera 8GB Bundle</name>
+			<description>
+				Includes Camera, 8 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-s...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>194.99</price>
+			<orig-price>194.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E2SNDSCWX9&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>102</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E2SNDSCWX9</sku>
+		</deal>
+		<deal xref="30" docId="2794270" score="51" indexTier="1">
+			<id>g0ZdcWq7xpiTCgxCGUUjlA==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera 8GB Bundle</name>
+			<description>
+				Includes Camera, 8 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-s...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>210</price>
+			<orig-price>210</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E2SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E2SNDSCWX9B</sku>
+		</deal>
+		<deal xref="31" docId="2794296" score="51" indexTier="1">
+			<id>gC2CPK0CSt35eqtcI7kKoA==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera 16GB Bundle</name>
+			<description>
+				Includes Camera, 16 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, Screen Protectors, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject....
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>230</price>
+			<orig-price>230</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E3SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>103</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E3SNDSCWX9B</sku>
+		</deal>
+		<deal xref="32" docId="2795835" score="51" indexTier="1">
+			<id>rSUO0mNnKFLTxIEevYoh1w==</id>
+			<name>Sony Cyber-shot DSC-WX9 Black Digital Camera</name>
+			<description>
+				Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSLR benefit. The system takes two shots, identifies the background and appli...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>165</price>
+			<orig-price>165</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=SNDSCWX9B&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>SNDSCWX9B</sku>
+		</deal>
+		<deal xref="33" docId="2795898" score="51" indexTier="1">
+			<id>rvVkHwzp5roj0R4824MKvg==</id>
+			<name>Sony Cyber-shot DSC-WX9 Silver Digital Camera 16GB Bundle</name>
+			<description>
+				Includes Camera, 16 GB Memory Card, Battery, Camera Carrying Case, Memory Card Reader, Mini Tripod, Screen Protectors, and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject....
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>320</price>
+			<orig-price>200</orig-price>
+			<on-sale>1</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E3SNDSCWX9&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>110</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E3SNDSCWX9</sku>
+		</deal>
+		<deal xref="34" docId="2795975" score="51" indexTier="1">
+			<id>sWfzJWg0n1FldiI-FTCTUg==</id>
+			<name>Sony Cyber-shot DSC-WX9 Silver Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>169.99</price>
+			<orig-price>169.99</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCWX9&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>104</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9</sku>
+		</deal>
+		<deal xref="35" docId="2796774" score="51" indexTier="1">
+			<id>z2rMcxGdzG2wpZ9hPhLuog==</id>
+			<name>Sony Cyber-shot DSC-WX9 Red Digital Camera 4GB Bundle</name>
+			<description>
+				Includes Camera, 4 GB Memory Card, Camera Carrying Case and Cleaning Kit. Sony DSC-WX9 ? Unrestricted power in a compact package. With powerful features like Full HD movie for high quality movies, low light performance for improved image clarity, 10 fps to capture the precise moment, and 3D still image capture for a new way to experience your pictures, you wouldn?t believe something so compact could be this powerful. Features: 16.2 Megapixel Back-illuminated Exmor R CMOS Image Sensor  The DSC-WX9 features a 16.2 megapixel Exmor R CMOS image sensor that brings out the full resolving power of the camera's Carl Zeiss Vario-Tessar lens to deliver extremely fast speed, high resolution, and stunning low-light sensitivity with improved image clarity and drastically reduced grain. In addition, the combined Exmor R CMOS sensor and BIONZ image processor delivers extremely fast 10fps, Anti Motion Blur, Hand-held Twilight and 1080i movie modes3. 3.0 XtraFine  3.0 (920K) XtraFine technology gives you brilliant-quality still images and movies with easy focus. Full HD 1080/60i  Record crystal clear movies at the highest resolution available with capabilities for 60i in 1080 AVCHD(3). This provides stunning, fast motion video with less distortion for playback on your HD TV. 3D still image and panorama  Produce awe-inspiring images with 3D still image and 3D Sweep Panorama capabilities4. Photos will take on a new dimension of creative capabilities for viewing the world in a whole new way. iSweep Panorama  With iSweep Panorama just press the shutter, pan the landscape and let the camera do the rest. It automatically links together each frame to produce a panoramic image. This model even detects faces and moving subjects to stitch intelligently different widths to help avoid subject distortion. Background Defocus  DSLR photographs are often beautiful because they blur the background, putting the emphasis on the subject. Now our point-and-shoot cameras can deliver this signature DSL...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>167.99</price>
+			<orig-price>167.99</orig-price>
+			<on-sale>1</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>1</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811660</crawler-id>
+			<url>
+				http://www.buydig.com/shop/product.aspx?sku=E1SNDSCWX9R&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>101</image-location>
+			<image-height>250</image-height>
+			<image-width>250</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ Circle of excellence award winner -Enjoy secure online shopping, great prices, fast shipping &amp; award winning customer service when you shop at buydig.com.
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E1SNDSCWX9R</sku>
+		</deal>
+		<deal xref="36" docId="2807323" score="51" indexTier="1">
+			<id>S_LDDfQDgX4NAzCpID31RQ==</id>
+			<name>
+				Sony Cyber-shot DSC-HX1 9.1 MP Digital Camera w/8 GB, Reader, Tripod, Case &amp; More
+			</name>
+			<description>
+				Features  10.2 Megapixel Back-Illuminated Exmor R CMOS Image Sensor 3.0  Clear Photo LCD Display (230k pixels) Card Slots - Memory Stick Duo media and SD/SDHC media 10x (25mm equivalent) Professional-Quality Optical Zoom G-Lens Intelligent AF Optical SteadyShot Image Stabilization Anti-Motion Blur Mode Handheld Twilight High Sensitivity Mode (ISO 3200) 11 Scene Modes GPS and Compass TransferJet Technology Backlight Correction HDR Easy Shooting Mode Intelligent (iAuto) Auto Mode Intelligent Sweep Panorama Mode Face Detection Technology Motion Detection Smile Shutter Technology Anti-Blink Function High Speed Shooting HD MP4 Movie Mode HDMI Output Connectivity Viewing modes In-Camera Retouching Tools PhotoMusic Function Guide Lithium-Ion Battery Includes Sony PMBP (Picture Motion Browser) Software  Exposure System     D-Range Optimizer : Standard  ISO : Auto / 125 / 200 / 400 / 800 / 1600 / 3200  Metering : Yes  Noise Reduction : Yes  Scene Mode(s) : High Sensitivity / Twilight / Twilight Portrait / Soft Snap / Landscape / Beach / Snow / Fireworks / Advanced Sports / Gourmet / Pet  White Balance Mode : Auto / Daylight / Cloudy / Fluorescent 1(White Fluorescent Lighting) / Fluorescent 2 (Natural White Fluorescent Lighting) / Fluorescent 3 (Day White Fluorescent Lighting) / Incandescent / Flash / One Push.   Power  Battery Capacity : Approx. 155 minutes / Approx. 310 images (when shooting still images)  Battery Type : InfoLITHIUM G type 3.6V  Power Consumption (in Operation) : Approx. 1.1W   Service and Warranty Information  Limited Warranty Term : 1 Year Parts &amp; Labor   Convenience Features  Media/Battery Indicator : Yes/Yes  Power Save Mode : Standard / Stamina /Off  Red-Eye Reduction : Auto / On / Off   Recording  Media Type : 45MB internal Flash Memory, optional Memory Stick Duo? Media, optional Memory Stick PRO Duo? Media, optional Memory Stick PRO Duo? (High Speed), optional Memory Stick PRO HG-Duo?, optional SD/SDHC/SDXC media Microphone/Speaker : Ster...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>369</price>
+			<orig-price>369</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E2SNDSCHX1&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>103</image-location>
+			<image-height>249</image-height>
+			<image-width>250</image-width>
+			<product-id>83010030</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E2SNDSCHX1</sku>
+		</deal>
+		<deal xref="37" docId="2807581" score="51" indexTier="1">
+			<id>seVctPAkpNZTpwlerrxKAA==</id>
+			<name>
+				Sony Cyber-shot DSC-HX1 9.1 MP Digital Camera w/16 GB, Reader, Tripod, Case &amp; More
+			</name>
+			<description>
+				Features  10.2 Megapixel Back-Illuminated Exmor R CMOS Image Sensor 3.0  Clear Photo LCD Display (230k pixels) Card Slots - Memory Stick Duo media and SD/SDHC media 10x (25mm equivalent) Professional-Quality Optical Zoom G-Lens Intelligent AF Optical SteadyShot Image Stabilization Anti-Motion Blur Mode Handheld Twilight High Sensitivity Mode (ISO 3200) 11 Scene Modes GPS and Compass TransferJet Technology Backlight Correction HDR Easy Shooting Mode Intelligent (iAuto) Auto Mode Intelligent Sweep Panorama Mode Face Detection Technology Motion Detection Smile Shutter Technology Anti-Blink Function High Speed Shooting HD MP4 Movie Mode HDMI Output Connectivity Viewing modes In-Camera Retouching Tools PhotoMusic Function Guide Lithium-Ion Battery Includes Sony PMBP (Picture Motion Browser) Software  Exposure System     D-Range Optimizer : Standard  ISO : Auto / 125 / 200 / 400 / 800 / 1600 / 3200  Metering : Yes  Noise Reduction : Yes  Scene Mode(s) : High Sensitivity / Twilight / Twilight Portrait / Soft Snap / Landscape / Beach / Snow / Fireworks / Advanced Sports / Gourmet / Pet  White Balance Mode : Auto / Daylight / Cloudy / Fluorescent 1(White Fluorescent Lighting) / Fluorescent 2 (Natural White Fluorescent Lighting) / Fluorescent 3 (Day White Fluorescent Lighting) / Incandescent / Flash / One Push.   Power  Battery Capacity : Approx. 155 minutes / Approx. 310 images (when shooting still images)  Battery Type : InfoLITHIUM G type 3.6V  Power Consumption (in Operation) : Approx. 1.1W   Service and Warranty Information  Limited Warranty Term : 1 Year Parts &amp; Labor   Convenience Features  Media/Battery Indicator : Yes/Yes  Power Save Mode : Standard / Stamina /Off  Red-Eye Reduction : Auto / On / Off   Recording  Media Type : 45MB internal Flash Memory, optional Memory Stick Duo? Media, optional Memory Stick PRO Duo? Media, optional Memory Stick PRO Duo? (High Speed), optional Memory Stick PRO HG-Duo?, optional SD/SDHC/SDXC media Microphone/Speaker : Ster...
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>394</price>
+			<orig-price>394</orig-price>
+			<on-sale>0</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>0</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>70</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>60</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>811634</crawler-id>
+			<url>
+				http://www.beachcamera.com/shop/product.aspx?sku=E3SNDSCHX1&amp;omid=113&amp;ref=dealtime&amp;tab=descript&amp;
+			</url>
+			<image-location>111</image-location>
+			<image-height>250</image-height>
+			<image-width>247</image-width>
+			<product-id>83010030</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>
+				New _ *Circle of excellence award winner* beachcamera.com is your most reputable source for today's latest consumer electronics. Great prices &amp; service, fast shipping!
+			</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>E3SNDSCHX1</sku>
+		</deal>
+		<deal xref="38" docId="2921402" score="51" indexTier="1">
+			<id>QVpNpGm4gq7neYnYLysxoQ==</id>
+			<name>
+				SONY DSCWX9/B Black 16.2 MP 3.0' 921k LCD 5X Optical Zoom 25mm Wide Angle Digital Camera
+			</name>
+			<description>
+				Dimensions (WxHxD): 3.75' x 2.25' x 0.78'Weight: 4.9 oz. (139g)Type: Ultra-CompactImage Sensor: CMOSGross Pixels: 16.8 MPResolution: 16:9 : 12M (4 608 x 2 592) / 2M (1 920 x 1 080)  4:3 : 16M (4 608 x 3 456)  10M (3 648 x 2 736)  5M (2 592 x 1 944)  VGA (640 x 480)  3D: 16M (4 608 x 3 456) / 16:9 (12M) (4 608 x 2 592)Focal Length: 25-125mmAperture: F2.6 (W)-6.3 (T)
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>220</price>
+			<orig-price>220</orig-price>
+			<on-sale>1</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>3</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>37</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>27</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>478816</crawler-id>
+			<url>
+				http://www.newegg.com/Product/Product.aspx?Item=N82E16830179407&amp;nm_mc=OTC-Shopping&amp;cm_mmc=OTC-Shopping-_-Point+++Shoot-_-Sony-_-30179407
+			</url>
+			<image-location>106</image-location>
+			<image-height>480</image-height>
+			<image-width>640</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>FREE 3 Day Shipping</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>N82E16830179407</sku>
+		</deal>
+		<deal xref="39" docId="2921485" score="51" indexTier="1">
+			<id>goby85HR1kwGzGHFiR7IxA==</id>
+			<name>
+				SONY DSCWX9/R Red 16.2 MP 3.0' 921k LCD 5X Optical Zoom 25mm Wide Angle Digital Camera
+			</name>
+			<description>
+				Dimensions (WxHxD): 3.75' x 2.25' x 0.78'Weight: 4.9 oz. (139g)Type: Ultra-CompactImage Sensor: CMOSGross Pixels: 16.8 MPResolution: 16:9 : 12M (4 608 x 2 592) / 2M (1 920 x 1 080)  4:3 : 16M (4 608 x 3 456)  10M (3 648 x 2 736)  5M (2 592 x 1 944)  VGA (640 x 480)  3D: 16M (4 608 x 3 456) / 16:9 (12M) (4 608 x 2 592)Focal Length: 25-125mmAperture: F2.6 (W)-6.3 (T)
+			</description>
+			<impact-score>51</impact-score>
+			<impact-raw-score>51</impact-raw-score>
+			<static-score>0</static-score>
+			<price>220</price>
+			<orig-price>440</orig-price>
+			<on-sale>1</on-sale>
+			<on-sale-percent-off>0</on-sale-percent-off>
+			<tax>-4</tax>
+			<shipping-cost>0</shipping-cost>
+			<free-shipping>1</free-shipping>
+			<merchant-ref>3</merchant-ref>
+			<authorized-reseller>0</authorized-reseller>
+			<category-ref>0</category-ref>
+			<bid>37</bid>
+			<bid-level>form_bid</bid-level>
+			<raw-bid>27</raw-bid>
+			<addon type="logo" discount="0" cost="10"/>
+			<crawler-id>478816</crawler-id>
+			<url>
+				http://www.newegg.com/Product/Product.aspx?Item=N82E16830179408&amp;nm_mc=OTC-Shopping&amp;cm_mmc=OTC-Shopping-_-Point+++Shoot-_-Sony-_-30179408
+			</url>
+			<image-location>103</image-location>
+			<image-height>480</image-height>
+			<image-width>640</image-width>
+			<product-id>106577577</product-id>
+			<currency>USD</currency>
+			<stock-status>1</stock-status>
+			<stock-description>FREE 3 Day Shipping</stock-description>
+			<manufacturer-id>16</manufacturer-id>
+			<manufacturer-name>Sony</manufacturer-name>
+			<sku>N82E16830179408</sku>
+		</deal>
+	</deals>
+	<merchants count="4">
+		<merchant xref="0">
+			<name>Beach Camera.com</name>
+			<id>9190</id>
+			<review-avg>4.63</review-avg>
+			<review-count>7277</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<phone>1-800-572-3224x1</phone>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>191508878209</epi-product-id>
+			<seo-name>store beach camera com</seo-name>
+			<store-url>http://www.beachcamera.com</store-url>
+		</merchant>
+		<merchant xref="1">
+			<name>BuyDig.com</name>
+			<id>9180</id>
+			<review-avg>4.48</review-avg>
+			<review-count>7854</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<phone>800-617-4686 x1</phone>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>186469618561</epi-product-id>
+			<seo-name>store buydig com</seo-name>
+			<store-url>http://www.buydig.com/</store-url>
+		</merchant>
+		<merchant xref="2">
+			<name>B&amp;H Photo-Video-Pro Audio</name>
+			<id>300102</id>
+			<review-avg>4.77</review-avg>
+			<review-count>7153</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<phone>1-800-743-1016</phone>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>191508747137</epi-product-id>
+			<seo-name>store b h photo video pro audio</seo-name>
+			<store-url>http://www.bhphotovideo.com/?BI=81</store-url>
+		</merchant>
+		<merchant xref="3">
+			<name>Newegg.com</name>
+			<id>478816</id>
+			<review-avg>4.53</review-avg>
+			<review-count>4227</review-count>
+			<is-paying>1</is-paying>
+			<is-certified>1</is-certified>
+			<homebase-id>1</homebase-id>
+			<has-info>0</has-info>
+			<has-logo>1</has-logo>
+			<logo-addon>true</logo-addon>
+			<phone-addon>false</phone-addon>
+			<epi-product-id>261998678913</epi-product-id>
+			<seo-name>store newegg com 4181333</seo-name>
+			<store-url>http://www.newegg.com</store-url>
+		</merchant>
+	</merchants>
+	<display-items count="40" total="1500" begin-item="0" end-item="40" total-offers="1500" is-result-set-truncated="0">
+		<item xref="0">
+			<type>deal</type>
+			<xref>0</xref>
+		</item>
+		<item xref="1">
+			<type>deal</type>
+			<xref>1</xref>
+		</item>
+		<item xref="2">
+			<type>deal</type>
+			<xref>2</xref>
+		</item>
+		<item xref="3">
+			<type>deal</type>
+			<xref>3</xref>
+		</item>
+		<item xref="4">
+			<type>deal</type>
+			<xref>4</xref>
+		</item>
+		<item xref="5">
+			<type>deal</type>
+			<xref>5</xref>
+		</item>
+		<item xref="6">
+			<type>deal</type>
+			<xref>6</xref>
+		</item>
+		<item xref="7">
+			<type>deal</type>
+			<xref>7</xref>
+		</item>
+		<item xref="8">
+			<type>deal</type>
+			<xref>8</xref>
+		</item>
+		<item xref="9">
+			<type>deal</type>
+			<xref>9</xref>
+		</item>
+		<item xref="10">
+			<type>deal</type>
+			<xref>10</xref>
+		</item>
+		<item xref="11">
+			<type>deal</type>
+			<xref>11</xref>
+		</item>
+		<item xref="12">
+			<type>deal</type>
+			<xref>12</xref>
+		</item>
+		<item xref="13">
+			<type>deal</type>
+			<xref>13</xref>
+		</item>
+		<item xref="14">
+			<type>deal</type>
+			<xref>14</xref>
+		</item>
+		<item xref="15">
+			<type>deal</type>
+			<xref>15</xref>
+		</item>
+		<item xref="16">
+			<type>deal</type>
+			<xref>16</xref>
+		</item>
+		<item xref="17">
+			<type>deal</type>
+			<xref>17</xref>
+		</item>
+		<item xref="18">
+			<type>deal</type>
+			<xref>18</xref>
+		</item>
+		<item xref="19">
+			<type>deal</type>
+			<xref>19</xref>
+		</item>
+		<item xref="20">
+			<type>deal</type>
+			<xref>20</xref>
+		</item>
+		<item xref="21">
+			<type>deal</type>
+			<xref>21</xref>
+		</item>
+		<item xref="22">
+			<type>deal</type>
+			<xref>22</xref>
+		</item>
+		<item xref="23">
+			<type>deal</type>
+			<xref>23</xref>
+		</item>
+		<item xref="24">
+			<type>deal</type>
+			<xref>24</xref>
+		</item>
+		<item xref="25">
+			<type>deal</type>
+			<xref>25</xref>
+		</item>
+		<item xref="26">
+			<type>deal</type>
+			<xref>26</xref>
+		</item>
+		<item xref="27">
+			<type>deal</type>
+			<xref>27</xref>
+		</item>
+		<item xref="28">
+			<type>deal</type>
+			<xref>28</xref>
+		</item>
+		<item xref="29">
+			<type>deal</type>
+			<xref>29</xref>
+		</item>
+		<item xref="30">
+			<type>deal</type>
+			<xref>30</xref>
+		</item>
+		<item xref="31">
+			<type>deal</type>
+			<xref>31</xref>
+		</item>
+		<item xref="32">
+			<type>deal</type>
+			<xref>32</xref>
+		</item>
+		<item xref="33">
+			<type>deal</type>
+			<xref>33</xref>
+		</item>
+		<item xref="34">
+			<type>deal</type>
+			<xref>34</xref>
+		</item>
+		<item xref="35">
+			<type>deal</type>
+			<xref>35</xref>
+		</item>
+		<item xref="36">
+			<type>deal</type>
+			<xref>36</xref>
+		</item>
+		<item xref="37">
+			<type>deal</type>
+			<xref>37</xref>
+		</item>
+		<item xref="38">
+			<type>deal</type>
+			<xref>38</xref>
+		</item>
+		<item xref="39">
+			<type>deal</type>
+			<xref>39</xref>
+		</item>
+	</display-items>
+	<related-kws count="0" sbid-used="2000"/>
+	<warnings count="0"/>
+	<response-time>63929</response-time>
+	<style xmlns="http://www.w3.org/1999/xhtml" charset="utf-8" type="text/css" class="firebugResetStyles">/* See license.txt for terms of usage */
+
+/** reset styling **/
+
+.firebugResetStyles {
+
+    z-index: 2147483646 !important;
+
+    top: 0 !important;
+
+    left: 0 !important;
+
+    display: block !important;
+
+    border: 0 none !important;
+
+    margin: 0 !important;
+
+    padding: 0 !important;
+
+    outline: 0 !important;
+
+    min-width: 0 !important;
+
+    max-width: none !important;
+
+    min-height: 0 !important;
+
+    max-height: none !important;
+
+    position: fixed !important;
+
+    transform: rotate(0deg) !important;
+
+    transform-origin: 50% 50% !important;
+
+    border-radius: 0 !important;
+
+    box-shadow: none !important;
+
+    background: transparent none !important;
+
+    pointer-events: none !important;
+
+    white-space: normal !important;
+
+}
+
+style.firebugResetStyles {
+
+    display: none !important;
+
+}
+
+
+
+.firebugBlockBackgroundColor {
+
+    background-color: transparent !important;
+
+}
+
+
+
+.firebugResetStyles:before, .firebugResetStyles:after {
+
+    content: "" !important;
+
+}
+
+/**actual styling to be modified by firebug theme**/
+
+.firebugCanvas {
+
+    display: none !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBox {
+
+    width: auto !important;
+
+    position: static !important;
+
+}
+
+
+
+.firebugLayoutBoxOffset {
+
+    opacity: 0.8 !important;
+
+    position: fixed !important;
+
+}
+
+
+
+.firebugLayoutLine {
+
+    opacity: 0.4 !important;
+
+    background-color: #000000 !important;
+
+}
+
+
+
+.firebugLayoutLineLeft, .firebugLayoutLineRight {
+
+    width: 1px !important;
+
+    height: 100% !important;
+
+}
+
+
+
+.firebugLayoutLineTop, .firebugLayoutLineBottom {
+
+    width: 100% !important;
+
+    height: 1px !important;
+
+}
+
+
+
+.firebugLayoutLineTop {
+
+    margin-top: -1px !important;
+
+    border-top: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineRight {
+
+    border-right: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineBottom {
+
+    border-bottom: 1px solid #999999 !important;
+
+}
+
+
+
+.firebugLayoutLineLeft {
+
+    margin-left: -1px !important;
+
+    border-left: 1px solid #999999 !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.firebugLayoutBoxParent {
+
+    border-top: 0 none !important;
+
+    border-right: 1px dashed #E00 !important;
+
+    border-bottom: 1px dashed #E00 !important;
+
+    border-left: 0 none !important;
+
+    position: fixed !important;
+
+    width: auto !important;
+
+}
+
+
+
+.firebugRuler{
+
+    position: absolute !important;
+
+}
+
+
+
+.firebugRulerH {
+
+    top: -15px !important;
+
+    left: 0 !important;
+
+    width: 100% !important;
+
+    height: 14px !important;
+
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%13%88%00%00%00%0E%08%02%00%00%00L%25a%0A%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%04%F8IDATx%DA%EC%DD%D1n%E2%3A%00E%D1%80%F8%FF%EF%E2%AF2%95%D0D4%0E%C1%14%B0%8Fa-%E9%3E%CC%9C%87n%B9%81%A6W0%1C%A6i%9A%E7y%0As8%1CT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AATE9%FE%FCw%3E%9F%AF%2B%2F%BA%97%FDT%1D~K(%5C%9D%D5%EA%1B%5C%86%B5%A9%BDU%B5y%80%ED%AB*%03%FAV9%AB%E1%CEj%E7%82%EF%FB%18%BC%AEJ8%AB%FA'%D2%BEU9%D7U%ECc0%E1%A2r%5DynwVi%CFW%7F%BB%17%7Dy%EACU%CD%0E%F0%FA%3BX%FEbV%FEM%9B%2B%AD%BE%AA%E5%95v%AB%AA%E3E5%DCu%15rV9%07%B5%7F%B5w%FCm%BA%BE%AA%FBY%3D%14%F0%EE%C7%60%0EU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5JU%88%D3%F5%1F%AE%DF%3B%1B%F2%3E%DAUCNa%F92%D02%AC%7Dm%F9%3A%D4%F2%8B6%AE*%BF%5C%C2Ym~9g5%D0Y%95%17%7C%C8c%B0%7C%18%26%9CU%CD%13i%F7%AA%90%B3Z%7D%95%B4%C7%60%E6E%B5%BC%05%B4%FBY%95U%9E%DB%FD%1C%FC%E0%9F%83%7F%BE%17%7DkjMU%E3%03%AC%7CWj%DF%83%9An%BCG%AE%F1%95%96yQ%0Dq%5Dy%00%3Et%B5'%FC6%5DS%95pV%95%01%81%FF'%07%00%00%00%00%00%00%00%00%00%F8x%C7%F0%BE%9COp%5D%C9%7C%AD%E7%E6%EBV%FB%1E%E0(%07%E5%AC%C6%3A%ABi%9C%8F%C6%0E9%AB%C0'%D2%8E%9F%F99%D0E%B5%99%14%F5%0D%CD%7F%24%C6%DEH%B8%E9rV%DFs%DB%D0%F7%00k%FE%1D%84%84%83J%B8%E3%BA%FB%EF%20%84%1C%D7%AD%B0%8E%D7U%C8Y%05%1E%D4t%EF%AD%95Q%BF8w%BF%E9%0A%BF%EB%03%00%00%00%00%00%00%00%00%00%B8vJ%8E%BB%F5%B1u%8Cx%80%E1o%5E%CA9%AB%CB%CB%8E%03%DF%1D%B7T%25%9C%D5(%EFJM8%AB%CC'%D2%B2*%A4s%E7c6%FB%3E%FA%A2%1E%80~%0E%3E%DA%10x%5D%95Uig%15u%15%ED%7C%14%B6%87%A1%3B%FCo8%A8%D8o%D3%ADO%01%EDx%83%1A~%1B%9FpP%A3%DC%C6'%9C%95gK%00%00%00%00%00%00%00%00%00%20%D9%C9%11%D0%C0%40%AF%3F%EE%EE%92%94%D6%16X%B5%BCMH%15%2F%BF%D4%A7%C87%F1%8E%F2%81%AE%AAvzr%DA2%ABV%17%7C%E63%83%E7I%DC%C6%0Bs%1B%EF6%1E%00%00%00%00%00%00%00%00%00%80cr%9CW%FF%7F%C6%01%0E%F1%CE%A5%84%B3%CA%BC%E0%CB%AA%84%CE%F9%BF)%EC%13%08WU%AE%AB%B1%AE%2BO%EC%8E%CBYe%FE%8CN%ABr%5Dy%60~%CFA%0D%F4%AE%D4%BE%C75%CA%EDVB%EA(%B7%F1%09g%E5%D9%12%00%00%00%00%00%00%00%00%00H%F6%EB%13S%E7y%5E%5E%FB%98%F0%22%D1%B2'%A7%F0%92%B1%BC%24z3%AC%7Dm%60%D5%92%B4%7CEUO%5E%F0%AA*%3BU%B9%AE%3E%A0j%94%07%A0%C7%A0%AB%FD%B5%3F%A0%F7%03T%3Dy%D7%F7%D6%D4%C0%AAU%D2%E6%DFt%3F%A8%CC%AA%F2%86%B9%D7%F5%1F%18%E6%01%F8%CC%D5%9E%F0%F3z%88%AA%90%EF%20%00%00%00%00%00%00%00%00%00%C0%A6%D3%EA%CFi%AFb%2C%7BB%0A%2B%C3%1A%D7%06V%D5%07%A8r%5D%3D%D9%A6%CAu%F5%25%CF%A2%99%97zNX%60%95%AB%5DUZ%D5%FBR%03%AB%1C%D4k%9F%3F%BB%5C%FF%81a%AE%AB'%7F%F3%EA%FE%F3z%94%AA%D8%DF%5B%01%00%00%00%00%00%00%00%00%00%8E%FB%F3%F2%B1%1B%8DWU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*UiU%C7%BBe%E7%F3%B9%CB%AAJ%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5*%AAj%FD%C6%D4%5Eo%90%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5%86%AF%1B%9F%98%DA%EBm%BBV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%AD%D6%E4%F58%01%00%00%00%00%00%00%00%00%00%00%00%00%00%40%85%7F%02%0C%008%C2%D0H%16j%8FX%00%00%00%00IEND%AEB%60%82") repeat-x !important;
+
+    border-top: 1px solid #BBBBBB !important;
+
+    border-right: 1px dashed #BBBBBB !important;
+
+    border-bottom: 1px solid #000000 !important;
+
+}
+
+
+
+.firebugRulerV {
+
+    top: 0 !important;
+
+    left: -15px !important;
+
+    width: 14px !important;
+
+    height: 100% !important;
+
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%0E%00%00%13%88%08%02%00%00%00%0E%F5%CB%10%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%06~IDATx%DA%EC%DD%D1v%A20%14%40Qt%F1%FF%FF%E4%97%D9%07%3BT%19%92%DC%40(%90%EEy%9A5%CB%B6%E8%F6%9Ac%A4%CC0%84%FF%DC%9E%CF%E7%E3%F1%88%DE4%F8%5D%C7%9F%2F%BA%DD%5E%7FI%7D%F18%DDn%BA%C5%FB%DF%97%BFk%F2%10%FF%FD%B4%F2M%A7%FB%FD%FD%B3%22%07p%8F%3F%AE%E3%F4S%8A%8F%40%EEq%9D%BE8D%F0%0EY%A1Uq%B7%EA%1F%81%88V%E8X%3F%B4%CEy%B7h%D1%A2E%EBohU%FC%D9%AF2fO%8BBeD%BE%F7X%0C%97%A4%D6b7%2Ck%A5%12%E3%9B%60v%B7r%C7%1AI%8C%BD%2B%23r%00c0%B2v%9B%AD%CA%26%0C%1Ek%05A%FD%93%D0%2B%A1u%8B%16-%95q%5Ce%DCSO%8E%E4M%23%8B%F7%C2%FE%40%BB%BD%8C%FC%8A%B5V%EBu%40%F9%3B%A72%FA%AE%8C%D4%01%CC%B5%DA%13%9CB%AB%E2I%18%24%B0n%A9%0CZ*Ce%9C%A22%8E%D8NJ%1E%EB%FF%8F%AE%CAP%19*%C3%BAEKe%AC%D1%AAX%8C*%DEH%8F%C5W%A1e%AD%D4%B7%5C%5B%19%C5%DB%0D%EF%9F%19%1D%7B%5E%86%BD%0C%95%A12%AC%5B*%83%96%CAP%19%F62T%86%CAP%19*%83%96%CA%B8Xe%BC%FE)T%19%A1%17xg%7F%DA%CBP%19*%C3%BA%A52T%86%CAP%19%F62T%86%CA%B0n%A9%0CZ%1DV%C6%3D%F3%FCH%DE%B4%B8~%7F%5CZc%F1%D6%1F%AF%84%F9%0F6%E6%EBVt9%0E~%BEr%AF%23%B0%97%A12T%86%CAP%19%B4T%86%CA%B8Re%D8%CBP%19*%C3%BA%A52huX%19%AE%CA%E5%BC%0C%7B%19*CeX%B7h%A9%0C%95%E1%BC%0C%7B%19*CeX%B7T%06%AD%CB%5E%95%2B%BF.%8F%C5%97%D5%E4%7B%EE%82%D6%FB%CF-%9C%FD%B9%CF%3By%7B%19%F62T%86%CA%B0n%D1R%19*%A3%D3%CA%B0%97%A12T%86uKe%D0%EA%B02*%3F1%99%5DB%2B%A4%B5%F8%3A%7C%BA%2B%8Co%7D%5C%EDe%A8%0C%95a%DDR%19%B4T%C66%82fA%B2%ED%DA%9FC%FC%17GZ%06%C9%E1%B3%E5%2C%1A%9FoiB%EB%96%CA%A0%D5qe4%7B%7D%FD%85%F7%5B%ED_%E0s%07%F0k%951%ECr%0D%B5C%D7-g%D1%A8%0C%EB%96%CA%A0%A52T%C6)*%C3%5E%86%CAP%19%D6-%95A%EB*%95q%F8%BB%E3%F9%AB%F6%E21%ACZ%B7%22%B7%9B%3F%02%85%CB%A2%5B%B7%BA%5E%B7%9C%97%E1%BC%0C%EB%16-%95%A12z%AC%0C%BFc%A22T%86uKe%D0%EA%B02V%DD%AD%8A%2B%8CWhe%5E%AF%CF%F5%3B%26%CE%CBh%5C%19%CE%CB%B0%F3%A4%095%A1%CAP%19*Ce%A8%0C%3BO*Ce%A8%0C%95%A12%3A%AD%8C%0A%82%7B%F0v%1F%2FD%A9%5B%9F%EE%EA%26%AF%03%CA%DF9%7B%19*Ce%A8%0C%95%A12T%86%CA%B8Ze%D8%CBP%19*Ce%A8%0C%95%D1ae%EC%F7%89I%E1%B4%D7M%D7P%8BjU%5C%BB%3E%F2%20%D8%CBP%19*Ce%A8%0C%95%A12T%C6%D5*%C3%5E%86%CAP%19*Ce%B4O%07%7B%F0W%7Bw%1C%7C%1A%8C%B3%3B%D1%EE%AA%5C%D6-%EBV%83%80%5E%D0%CA%10%5CU%2BD%E07YU%86%CAP%19*%E3%9A%95%91%D9%A0%C8%AD%5B%EDv%9E%82%FFKOee%E4%8FUe%A8%0C%95%A12T%C6%1F%A9%8C%C8%3D%5B%A5%15%FD%14%22r%E7B%9F%17l%F8%BF%ED%EAf%2B%7F%CF%ECe%D8%CBP%19*Ce%A8%0C%95%E1%93~%7B%19%F62T%86%CAP%19*Ce%A8%0C%E7%13%DA%CBP%19*Ce%A8%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4%AE%A4%F5%25%C0%00%DE%BF%5C'%0F%DA%B8q%00%00%00%00IEND%AEB%60%82") repeat-y !important;
+
+    border-left: 1px solid #BBBBBB !important;
+
+    border-right: 1px solid #000000 !important;
+
+    border-bottom: 1px dashed #BBBBBB !important;
+
+}
+
+
+
+.overflowRulerX &gt; .firebugRulerV {
+
+    left: 0 !important;
+
+}
+
+
+
+.overflowRulerY &gt; .firebugRulerH {
+
+    top: 0 !important;
+
+}
+
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.fbProxyElement {
+
+    position: fixed !important;
+
+    pointer-events: auto !important;
+
+}
+
+</style>
+</kadu-response>
